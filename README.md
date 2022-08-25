@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @phillipheuser
+- 👀 I’m interested in Bowling.
+- 🌱 I’m currently learning Computer Science.
+- 💞️ I’m looking to collaborate on studying.
+- 📫 How to reach me phillip.heuser@student.judsonu.edu
